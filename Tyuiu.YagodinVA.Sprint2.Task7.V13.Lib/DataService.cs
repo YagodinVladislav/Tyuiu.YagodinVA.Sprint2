@@ -17,7 +17,7 @@ namespace Tyuiu.YagodinVA.Sprint2.Task7.V13.Lib
             {
                 res = true;
             }
-            else
+            else   
             {
                 res = false;
             }

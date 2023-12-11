@@ -15,7 +15,7 @@ namespace Tyuiu.YagodinVA.Sprint2.Task7.V13
 
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #2 | Выполнил: Ягодин  А. А. | ИИПб-23-1";
+            Console.Title = "Спринт #2 | Выполнил: Ягодин  В. А. | АСОиУБ-23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринту                 *");
